@@ -1,5 +1,6 @@
 # ChromeExtension
 A very basic chromeExtension.
 
-# In case you dont know how to upload an extension on chrome
+# Upload the extension.
+First  download the folder and follow this video(if you dont know the procedure).
 https://www.youtube.com/watch?v=oswjtLwCUqg
